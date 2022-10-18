@@ -2,4 +2,5 @@
 ### Group members: Muktita Kim, Alejandro Ramos Jr, Kirti Chaudhary
 
 ### To run the API
-``git clone ``
+#### 1. Clone the repository 
+``git clone https://github.com/muktita/project1.git ``
