@@ -9,7 +9,7 @@ c = conn.cursor()
 
 # Open and load the json file
 f = open('correct.json')
-data = json.loads(f)
+data = json.load(f)
 
 # Populate the correct_words
 for val in data:
