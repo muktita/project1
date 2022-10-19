@@ -1,3 +1,5 @@
+-- Muktita Kim
+
 /*Database For Wordle */
 -- To enable foreign_keys
 PRAGMA foreign_keys = ON;
@@ -17,6 +19,7 @@ CREATE TABLE game (
     gameid integer primary key,
     userid integer,
     correct_word varchar,
+    valid_guess varchar,
     num_guess integer,
     Foreign KEY (userid) REFERENCES (userid)
 );
@@ -32,5 +35,5 @@ CREATE TABLE gameSession (
     FOREIGN KEY (gameid) REFERENCES (gameid),
     FOREIGN KEY (correct_word) REFERENCES (correct_word)
 );
-
+COMMIT;
 
