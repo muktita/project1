@@ -17,7 +17,6 @@ CREATE TABLE game (
     gameid integer primary key,
     userid integer,
     correct_word varchar,
-    win boolean,
     num_guess integer,
     Foreign KEY (userid) REFERENCES (userid)
 );
@@ -27,9 +26,11 @@ DROP TABLE IF EXISTS gameSession;
 CREATE TABLE gameSession (
     userid integer,
     gameid integer,
-    user_guess varchar,
+    valid_guess varchar,
+    correct_word varchar,
     FOREIGN KEY (userid) REFERENCES (userid),
-    FOREIGN KEY (gameid) REFERENCES (gameid)
+    FOREIGN KEY (gameid) REFERENCES (gameid),
+    FOREIGN KEY (correct_word) REFERENCES (correct_word)
 );
 
 
