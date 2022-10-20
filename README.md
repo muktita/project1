@@ -5,7 +5,7 @@
 #### 1. Install all the dependencies needed
 ```pip install flask``` <br/>
 ```sudo apt-get update``` <br/>
-```pip install database[aiosqlite]```
+```pip install database[aiosqlite]``` <br/>
 ```sudo apt-get install python3.8 python3-pip``` <br/>
 ### 2.  Clone the repository 
 ``git clone https://github.com/muktita/project1.git ``
