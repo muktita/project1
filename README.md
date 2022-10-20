@@ -1,5 +1,6 @@
 # Wordle API for CPSC 499
-### Group members: <br/> Muktita Kim (Database) <br/> Alejandro Ramos Jr (Python code) <br/> Kirti Chaudhary <br/>
+### Group members: <br/> 
+#### Muktita Kim (Database) <br/> Alejandro Ramos Jr (Python code) <br/> Kirti Chaudhary <br/>
 ### To run the API
 #### 1. Clone the repository 
 ``git clone https://github.com/muktita/project1.git ``
