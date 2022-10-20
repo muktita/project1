@@ -5,8 +5,10 @@
 #### 1. Clone the repository 
 ``git clone https://github.com/muktita/project1.git ``
 ### 2. Install all the dependencies needed 
-``pip install flask`` <br/>
-``pip install database[aiosqlite]``
+```pip install flask``` <br/>
+```sudo apt-get update``` <br/>
+```sudo apt-get install python3.8 python3-pip``` <br/>
+```pip install database[aiosqlite]```
 ### 3. Go into the Project1 Directory
 ```cd project1```
 ### 4. Run the program
