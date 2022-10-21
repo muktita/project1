@@ -1,6 +1,6 @@
 # Wordle API for CPSC 499
 ### Group members: <br/> 
-#### Muktita Kim (Database) <br/> Alejandro Ramos Jr (Python code) <br/> Kirti Chaudhary <br/>
+#### Muktita Kim (Database) <br/> Alejandro Ramos Jr (Python code) <br/> 
 ### To run the API
 #### 1. Install all the dependencies needed
 ```pip install flask``` <br/>
