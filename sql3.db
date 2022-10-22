@@ -1,0 +1,14 @@
+import sqlite3
+
+con = sqlite3.connect("game.sqlite")
+
+
+cursor = con.cursor()
+sql_query = """ CREATE TABLE game (
+    user TEXT NOT NULL,
+    id integer PRIMARY KEY,
+    incorrect integer NOT NULL,
+    correct integer NOT NULL,
+    attempts integer NOT NULL
+)"""
+cursor.execute(sql_query)
