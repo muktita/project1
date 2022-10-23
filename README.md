@@ -24,6 +24,8 @@ The project is built with flask api with sqlite </br>
 ```Flask run```
 
 #### Copy this link to run the application
-``````
+```http://127.0.0.1:5000```
+The check the game use /game </br>
+```http://127.0.0.1:5000/game```
 
 
