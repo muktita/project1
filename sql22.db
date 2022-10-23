@@ -1,0 +1,14 @@
+import sqlite3
+
+con = sqlite3.connect("game_session.sqlite")
+
+
+cursor = con.cursor()
+
+
+sql_query = """CREATE TABLE IF NOT EXISTS game_session (
+      five_letter VARCHAR,
+      correct_word VARCHAR
+       )"""
+
+cursor.execute(sql_query)

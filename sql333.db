@@ -1,0 +1,14 @@
+import sqlite3
+
+con = sqlite3.connect("user.sqlite")
+
+
+cursor = con.cursor()
+
+sql_query = """CREATE TABLE IF NOT EXISTS user (
+        id INTERGER,
+        username VARCHAR,
+        password VARCHAR
+        )"""
+
+cursor.execute(sql_query)
