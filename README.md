@@ -20,9 +20,7 @@ The project is built with flask api with sqlite </br>
 
 ### 3. Go into the Project1 Directory 
 ```cd project1```
-### 4. Run the program
-#### Run the database script to populate the database with correct and valid words
-```python3 database.py```
+### 4. Run the program`
 #### Run the API 
 ```Flask run```
 
