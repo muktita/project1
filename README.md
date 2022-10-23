@@ -2,8 +2,8 @@
 ### Group members: <br/> 
 #### Muktita Kim (Database & Python code) <br/> Alejandro Ramos Jr (Database & Python code) <br/>
 
-#### Project 
-<p> Due to the lack of members, we only manage to get a few api calls running.</p>
+#### Project </br>
+Due to the lack of members, we only manage to get a few api calls running
 ### To run the API
 #### 1. Install all the dependencies needed
 ```pip install flask``` <br/>
