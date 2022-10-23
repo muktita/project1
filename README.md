@@ -1,6 +1,6 @@
 # Wordle API for CPSC 499
 ### Group members: <br/> 
-#### Muktita Kim (Database & Python code) <br/> Alejandro Ramos Jr (Database & Python code) <br/>
+#### Alejandro Ramos Jr (Database & Python code) <br/> Muktita Kim (Database & Python code) <br/> 
 
 ### Project </br>
 Due to the lack of members, we try to get a as much as we could to make the api calls running </br>
@@ -23,6 +23,7 @@ The project is built with flask api with sqlite </br>
 #### Run the API 
 ```Flask run```
 
-#### 
+#### Copy this link to run the application
+``````
 
 
