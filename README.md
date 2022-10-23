@@ -1,6 +1,9 @@
 # Wordle API for CPSC 499
 ### Group members: <br/> 
-#### Alejandro Ramos Jr (Database & Python code) <br/> Muktita Kim (Database & Python code) <br/> 
+#### Alejandro Ramos Jr (Database & Python code) <br/>
+Email: ramosalejandro444@csu.fullerton.edu </br> 
+Muktita Kim (Database & Python code) <br/> 
+Email: muktitakim@csu.fullerton.edu </br>
 
 ### Project </br>
 Due to the lack of members, we try to get a as much as we could to make the api calls running </br>
