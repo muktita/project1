@@ -1,6 +1,6 @@
 # Wordle API for CPSC 499
 ### Group members: <br/> 
-#### Alejandro Ramos Jr (Database & Python code) <br/>
+#### Alejandro Ramos Jr (Database & Python code) </br>
 Email: ramosalejandro444@csu.fullerton.edu </br> 
 Muktita Kim (Database & Python code) <br/> 
 Email: muktitakim@csu.fullerton.edu </br>
@@ -27,11 +27,11 @@ The project is built with flask api with sqlite </br>
 ```Flask run```
 
 #### Copy this link to run the application
-To authenticate the user and password please use <br/>
-Username =  username <br/>
-Password = password <br/> 
-```http://127.0.0.1:5000```<br/>
-The check the game use /game <br/>
+To authenticate the user and password please use </br>
+Username =  username </br>
+Password = password </br> 
+```http://127.0.0.1:5000```</br>
+The check the game use /game </br>
 ```http://127.0.0.1:5000/game```
 
 
