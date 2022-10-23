@@ -2,8 +2,10 @@
 ### Group members: <br/> 
 #### Muktita Kim (Database & Python code) <br/> Alejandro Ramos Jr (Database & Python code) <br/>
 
-#### Project </br>
-Due to the lack of members, we only manage to get a few api calls running
+### Project </br>
+Due to the lack of members, we try to get a as much as we could to make the api calls running </br>
+The project is built with flask api with sqlite </br>
+
 ### To run the API
 #### 1. Install all the dependencies needed
 ```pip install flask``` <br/>
